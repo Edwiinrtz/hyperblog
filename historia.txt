@@ -1,8 +1,11 @@
-Esta es la hitoria de Oye mi Perro 
+Este es registro/pronóstico del clima.
 
-Oye mi Perro es un personaje no tan  especial y extremadamente lleno de iluciones aunque 
-asi lo pareciera.
+Lunes: Nublado y ventoso
+Martes: Nublado y lluvioso
+Miercoles: Soleado
+Jueves: sin novedades
+Viernes:sin novedades
+Sabado:sin novedades
+Domingo:sin novedades
 
-Es es su historia:
-
-Nacio como un meme y se convirtió en una religión.
+correspondiente a la semana actual. 
