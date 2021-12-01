@@ -4,8 +4,8 @@ Lunes: Nublado y ventoso
 Martes: Nublado y lluvioso
 Miercoles: Soleado
 Jueves: Nublado
-Viernes:lluvioso
-Sabado:sin novedades
+Viernes:Lluvioso
+Sabado: Nublado
 Domingo:sin novedades
 
 correspondiente a la semana actual. 
