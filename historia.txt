@@ -3,6 +3,7 @@ Este es registro/pronóstico del clima.
 Lunes: Nublado y ventoso
 Martes: Nublado y lluvioso
 Miercoles: Soleado
+Experimento 1
 Jueves: Nublado
 Viernes:Lluvioso
 Sabado: Nublado
